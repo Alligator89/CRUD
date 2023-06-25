@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/ChangeLoginServlet.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Create.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/CreateServlet.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Delete.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/DeleteServlet.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/GetServlet.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/JdbcCallableStatement.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Read.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Update.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db/migration/V1_1_0__my_first_migration.sql" dialect="GenericSQL" />
+  </component>
+</project>
